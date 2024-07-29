@@ -3,7 +3,7 @@
 <p><em>IT Student at <a href="https://www.ufrn.br/">Federal University of Rio Grande do Norte</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></em></p>
 
 [![Twitter: gustavopavao](https://img.shields.io/twitter/follow/gustavopavao?style=social)](https://twitter.com/gustavo)
-[![Linkedin: gustavopavao](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavopavao/)](https://www.linkedin.com/in/gustavopavao/)
+[![Linkedin: gustavopavao](https://img.shields.io/badge/-gustavopavao-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavopavao/)](https://www.linkedin.com/in/gustavopavao/)
 [![GitHub gustapavao](https://img.shields.io/github/followers/gustapavao?label=follow&style=social)](https://github.com/gustapavao)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
