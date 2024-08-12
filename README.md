@@ -11,8 +11,9 @@
 ```javascript
 const pavao = {
   pronouns: "he" | "his",
-  code: [Javascript, HTML, CSS, Python, Java],
-  tools: [Spring Boot, React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"]
+  code: ["Javascript", "HTML", "CSS", "Python", "Java"],
+  tools: ["Spring Boot", "React", "Redux", "Node", "Storybook", "Styled-Components", "Jest", "Docker"],
+  hobbies: ["cycling", "languages"],
+  languages: ["Portuguese", "English", "Japanese"]
 }
 ```
